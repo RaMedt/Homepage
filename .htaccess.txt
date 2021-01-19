@@ -1,0 +1,5 @@
+RedirectMatch /css/(.*)\.php$ https://rainer.mewaldt.info/index.html
+RedirectMatch /fonts/(.*)\.php$ https://rainer.mewaldt.info/index.html
+RedirectMatch /images/(.*)\.php$ https://rainer.mewaldt.info/index.html
+RedirectMatch /inc/(.*)\.php$ https://rainer.mewaldt.info/index.html
+RedirectMatch /js/(.*)\.php$ https://rainer.mewaldt.info/index.html
